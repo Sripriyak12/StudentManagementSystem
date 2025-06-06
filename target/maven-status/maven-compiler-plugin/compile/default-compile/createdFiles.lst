@@ -1,0 +1,8 @@
+com\studentapp\dao\StudentDAOImpl.class
+com\studentapp\config\WebMvcConfig.class
+com\studentapp\model\Student.class
+com\studentapp\config\DatabaseConfig.class
+com\studentapp\dao\StudentDAOImpl$StudentRowMapper.class
+com\studentapp\controller\StudentController.class
+com\studentapp\dao\StudentDAO.class
+com\studentapp\controller\StudentRestController.class
